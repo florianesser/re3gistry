@@ -38,7 +38,7 @@
         <dependency>
             <groupId>eu.europa.ec.digit.iam.ecas.client</groupId>
             <artifactId>ecas-tomcat-7.0</artifactId>
-            <version>4.61.0</version>
+            <version>4.26.0</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
@@ -137,7 +137,7 @@
                         </goals>
                         <configuration>
                             <file>dependencies/ecas-tomcat-7.0-4.26.0.jar</file>
-                            <groupId>eu.cec.digit.ecas</groupId>
+                            <groupId>eu.europa.ec.digit.iam.ecas.client</groupId>
                             <artifactId>ecas-tomcat-7.0</artifactId>
                             <version>4.26.0</version>
                             <packaging>jar</packaging>
